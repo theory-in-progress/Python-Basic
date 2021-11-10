@@ -137,26 +137,27 @@ Here are some examples:
 The data collected is for 3 cinemas IMAX have located in the North Region of Mumbai for the past 3 months
 
 ### [Link to the DataSet](https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/DataSet_IMAX.xlsx) - https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/DataSet_IMAX.xlsx
-**Snapshot** - ![[Pasted image 20211111000637.png]]
+**Snapshot** - ![Snapshot](https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/Images/Pasted%20image%2020211111000637.png)
 
 ### Basic Visualizations
-![[Pasted image 20211111000748.png]]
+![Snapshot](https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/Images/Pasted%20image%2020211111000748.png)
 1. Purpose - To Indicate the number of sales of each cinema in all the three months.
 2. Useful for - Analysing the data graphically and breaking it down.
 3. Main Observation - Sales of the three cinemas for the past three months.
 
 
-![[Pasted image 20211111000811.png]]
+![Snapshot](https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/Images/Pasted%20image%2020211111000811.png)
 1. Purpose - To Indicate the number of sales in concession in all the three months.
 2. Useful for - Analysing the data graphically and breaking it down.
 3. Main Observation - Sales of the concession stands for the three cinemas for the past three months.
 
-![[Pasted image 20211111000820.png]]
+
+![Snapshot](https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/Images/Pasted%20image%2020211111000820.png)
 1. Purpose - Total sales revenue of all the cinemas - Bar Graph.
 2. Useful for - Analysing the data graphically and breaking it down.
 3. Main Observation - Total sales revenue of all the cinemas in the past three months, including the concession stands.
 
-![[Pasted image 20211111000826.png]]
+![Snapshot](https://github.com/theory-in-progress/Python-Projects/blob/main/DV_Assignment/Images/Pasted%20image%2020211111000826.png)
 1. Purpose - Total sales revenue of all the cinemas - Line Graph.
 2. Useful for - Analysing the data graphically and breaking it down.
 3. Main Observation - Total sales revenue of all the cinemas in the past three months, including the concession stands.
